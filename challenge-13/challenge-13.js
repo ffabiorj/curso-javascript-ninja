@@ -62,7 +62,8 @@
 	/*
 	Crie um novo array chamado `nordeste`, que tenha os estados do nordeste.
 	*/
-	var nordeste = ['Maranhão', 'Piaui', 'bahia', 'Natal', 'Paraiba', 'Pernambuco', 'Alagoas', 'Sergipe', 'Ceará']
+	var nordeste = ['Maranhão', 'Piaui', 'bahia', 'Natal',
+	 'Paraiba', 'Pernambuco', 'Alagoas', 'Sergipe', 'Ceará'];
 
 	/*
 	Mostre no console os estados do nordeste.
